@@ -1,2 +1,3 @@
+add_lunch_combo candy5_quincytmo-user
 add_lunch_combo candy5_quincytmo-userdebug
-
+add_lunch_combo candy5_quincytmo-eng
